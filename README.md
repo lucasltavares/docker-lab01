@@ -2,7 +2,7 @@
 Docker lab to exemplify docker compose usage.
 
 ## Project directory structure
-docker-compose.yaml
+```docker-compose.yaml
 /product-service
   app.js
   package.json
@@ -10,6 +10,11 @@ docker-compose.yaml
 /inventory-service
   app.js
   package.json
-  Dockerfile
+  Dockerfile```
+
+
+## Starting the project
+docker compose build
+docker compose up -d
 
   
