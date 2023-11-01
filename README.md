@@ -10,7 +10,7 @@ Docker lab to exemplify docker compose usage.
 /inventory-service
   app.js
   package.json
-  Dockerfile```
+  Dockerfile
 
 
 ## Starting the project
